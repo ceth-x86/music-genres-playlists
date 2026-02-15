@@ -28,6 +28,10 @@ README.md headers must follow the hierarchy from `classification.yaml`:
 
 When adding a new playlist to README.md, find its position in `classification.yaml` and place it under the correct parent/subcategory headers, creating new headers if needed.
 
+### Creating new playlist files
+
+When asked to create a file for a genre, create an empty file. Place it according to `classification.yaml` hierarchy and add the link to README.md.
+
 ### Converting from table format
 
 When converting a markdown table to this list format:

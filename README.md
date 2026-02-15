@@ -20,6 +20,16 @@
 - [Progressive Techno](electronic/techno/progressive%20techno.md)
 - [Rave Techno](electronic/techno/rave%20techno.md)
 
+### Trance
+
+- [Uplifting Trance](electronic/trance/uplifting%20trance.md)
+
+## Indie Rock
+
+### Dreamy Indie
+
+- [Shoegaze](indie%20rock/dreamy%20indie/shoegaze.md)
+
 ## Punk
 
 ### Post Punk

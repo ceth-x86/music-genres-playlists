@@ -6,6 +6,10 @@
 
 ## Electronic
 
+### Ambient
+
+- [Classic Ambient](electronic/ambient/classic%20ambient.md)
+
 ### Experimental Electronic
 
 - [Leftfield](electronic/experimental%20electronic/leftfield.md)

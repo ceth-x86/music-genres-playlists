@@ -8,25 +8,25 @@
 
 ### Experimental Electronic
 
-- [Leftfield](electronic/leftfield.md)
+- [Leftfield](electronic/experimental%20electronic/leftfield.md)
 
 ### House
 
-- [Progressive House](house/progressive%20house.md)
+- [Progressive House](electronic/house/progressive%20house.md)
 
 ### Techno
 
-- [Hypnotic Techno](techno/hypnotic%20techno.md)
-- [Progressive Techno](techno/progressive%20techno.md)
-- [Rave Techno](techno/rave%20techno.md)
+- [Hypnotic Techno](electronic/techno/hypnotic%20techno.md)
+- [Progressive Techno](electronic/techno/progressive%20techno.md)
+- [Rave Techno](electronic/techno/rave%20techno.md)
 
 ## Metal
 
 ### Black Metal
 
-- [Atmospheric Black Metal](metal/atmospheric_black_metal.md)
+- [Atmospheric Black Metal](metal/black%20metal/atmospheric_black_metal.md)
 
 ### Core Styles
 
-- [Deathcore](metal/deathcore.md)
-- [Djent](metal/djent.md)
+- [Deathcore](metal/core%20styles/deathcore.md)
+- [Djent](metal/core%20styles/djent.md)

@@ -20,6 +20,12 @@
 - [Progressive Techno](electronic/techno/progressive%20techno.md)
 - [Rave Techno](electronic/techno/rave%20techno.md)
 
+## Punk
+
+### Post Punk
+
+- [New Wave](punk/post%20punk/new%20wave.md)
+
 ## Metal
 
 ### Black Metal

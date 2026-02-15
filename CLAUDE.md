@@ -19,6 +19,15 @@ Description text in plain (non-bold) format.
 - Description is regular text on the next line
 - Blank line between entries
 
+### README.md structure
+
+README.md headers must follow the hierarchy from `classification.yaml`:
+- Top-level YAML categories become `##` headers
+- Subcategories become `###` headers
+- Playlists are listed as links under the most specific matching header
+
+When adding a new playlist to README.md, find its position in `classification.yaml` and place it under the correct parent/subcategory headers, creating new headers if needed.
+
 ### Converting from table format
 
 When converting a markdown table to this list format:

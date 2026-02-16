@@ -5,12 +5,6 @@
 **Brian Eno — Discreet Music (Discreet Music, 1975)**
 A blueprint for modern ambient: a long-form, softly evolving system where timbre and pacing substitute for "song" structure. It models the idea of music as environmental architecture rather than performance.
 
-**Ernest Hood — After School (Neighborhoods, 1975)**
-A pivotal early example of ambient as place-memory: gentle chamber textures arranged like a walking tour through emotion rather than a set of tunes. It expands "classic ambient" beyond electronics into quietly cinematic domestic sound.
-
-**Jon Hassell — Vernal Equinox (Vernal Equinox, 1978)**
-Hassell's "Fourth World" approach shows ambient's ability to suspend geography and time, using processed timbres as a floating habitat. Its influence lies in treating texture as cultural fiction rather than décor.
-
 **Harold Budd — Bismillahi 'Rrahmani 'Rrahim (The Pavilion of Dreams, 1978)**
 A cornerstone of luminous, slow harmonic ambient—piano and electronics as atmosphere, not virtuosity. Budd's phrasing and sustain help define the "classic" ambient mood: intimate, spacious, and non-dramatic.
 

@@ -9,6 +9,7 @@
 ### Ambient
 
 - [Classic Ambient](electronic/ambient/classic%20ambient.md)
+- [Industrial Ambient](electronic/ambient/industrial%20ambient.md)
 
 ### Experimental Electronic
 
@@ -40,6 +41,12 @@
 ### Post Punk
 
 - [New Wave](punk/post%20punk/new%20wave.md)
+
+## Rock
+
+### Progressive Rock
+
+- [Neo-Prog](rock/progressive%20rock/neo-prog.md)
 
 ## Metal
 

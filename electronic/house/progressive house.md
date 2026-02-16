@@ -5,9 +5,6 @@
 **Leftfield — Not Forgotten (Not Forgotten (12" single), 1990)**
 A foundational early progressive blueprint: restrained groove, dubby pressure, and a slow-unfolding arrangement built for long blends. It helped define "progressive" as *structure and momentum* rather than a quick hook.
 
-**React 2 Rhythm — Whatever You Dream (Whatever You Dream (12" single), 1992)**
-A prime example of early progressive's "rolling hypnosis": minimal elements accrue meaning through accumulation. Its tension curve is DJ-friendly and forward-driving without tipping into techno or trance primacy.
-
 **Gat Decor — Passion (Passion (12" single), 1992)**
 One of the clearest early progressive house anthems: luminous chords and a steady 4/4 engine that feels *inevitably* rising. It codified the genre's euphoric lift while keeping the mixable long-form shape.
 
@@ -19,9 +16,6 @@ Early progressive house at its most cinematic: mood and space take priority, wit
 
 **Andronicus — Make You Whole (Make You Whole (12" single), 1992)**
 A classic incremental-build design: motifs mutate slowly, and the groove stays disciplined while the harmonic suggestion expands. It's "progressive" in the literal sense—built from measured evolution.
-
-**Smells Like Heaven — Londres Strutt (Londres Strutt (12" single), 1993)**
-A percussive, rolling foundation with swelling layers that create forward motion without overt "drops." It captures the early-90s progressive aesthetic of spaciousness, restraint, and long-range payoff.
 
 **The Grid — Crystal Clear (Crystal Clear (12" single), 1993)**
 Tight sequencing and bright synth architecture push early progressive toward a cleaner, more "engineered" sound. The arrangement remains gradual and DJ-minded, emphasizing ascent through layering rather than melody alone.
@@ -40,9 +34,6 @@ Cinematic stabs and rolling drums translate "soundtrack drama" into a DJ-functio
 
 **Way Out West — Ajare (Ajare (12" single), 1994)**
 A celebrated early classic where percussion and melody evolve in tandem across an extended, rising form. It helped cement the idea of progressive house as *journey music*—not just a loop, but a destination.
-
-**The Drum Club — Drums Are Dangerous (Drums Are Dangerous (album), 1994)**
-Peak early-90s club force: a big, rolling chassis designed for long blends and steady escalation. It captures progressive house's balance of raw dancefloor weight and carefully staged development.
 
 ## Renaissance / Post‑Backlash Progressive (1995–1999)
 

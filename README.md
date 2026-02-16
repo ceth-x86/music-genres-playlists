@@ -19,6 +19,11 @@
 
 - [Progressive House](electronic/house/progressive%20house.md)
 
+### IDM
+
+- [Ambient IDM](electronic/idm/ambient%20idm.md)
+- [Classic IDM](electronic/idm/classic%20idm.md)
+
 ### Techno
 
 - [Hypnotic Techno](electronic/techno/hypnotic%20techno.md)

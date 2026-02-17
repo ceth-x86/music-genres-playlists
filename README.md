@@ -3,6 +3,7 @@
 ## Dark Folk
 
 - [Neoclassic Folk](dark%20folk/neoclassic%20folk.md)
+- [Psychedelic Dark Folk](dark%20folk/psychedelic%20dark%20folk.md)
 
 ## Electronic
 
@@ -63,6 +64,12 @@
 
 - [Aggrotech](industrial/harsh%20%26%20aggressive/aggrotech.md)
 - [Power Noise](industrial/harsh%20%26%20aggressive/power%20noise.md)
+
+## Jazz
+
+### Modernist
+
+- [Cool Jazz](jazz/modernist/cool%20jazz.md)
 
 ## Metal
 

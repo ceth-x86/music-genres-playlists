@@ -62,6 +62,7 @@
 ### Harsh & Aggressive
 
 - [Aggrotech](industrial/harsh%20%26%20aggressive/aggrotech.md)
+- [Power Noise](industrial/harsh%20%26%20aggressive/power%20noise.md)
 
 ## Metal
 

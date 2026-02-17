@@ -53,11 +53,25 @@
 
 - [Neo-Prog](rock/progressive%20rock/neo-prog.md)
 
+## Industrial
+
+### EBM and related
+
+- [EBM](industrial/ebm%20and%20related/ebm.md)
+
+### Harsh & Aggressive
+
+- [Aggrotech](industrial/harsh%20%26%20aggressive/aggrotech.md)
+
 ## Metal
 
 ### Black Metal
 
 - [Atmospheric Black Metal](metal/black%20metal/atmospheric_black_metal.md)
+
+### Alternative Metal
+
+- [Nu Metal](metal/alternative%20metal/nu%20metal.md)
 
 ### Core Styles
 

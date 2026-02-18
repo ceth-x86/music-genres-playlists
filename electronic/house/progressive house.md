@@ -46,20 +46,8 @@ A mid-90s staple built on hypnotic repetition that slowly opens into wider harmo
 **Blue Amazon — No Other Love (No Other Love (12" single), 1996)**
 Elegant and emotionally controlled—progressive uplift without trance-first melodrama. Its steady evolution and spacious mix exemplify the post-1995 move toward deeper, more refined progressive storytelling.
 
-**Slacker — Scared (Scared (12" single), 1996)**
-A deep, rolling classic where drama comes from subtle modulation and texture rather than big hooks. It's emblematic of progressive house's ability to be *dark, intimate, and propulsive* at once.
-
-**Atlas — Beauty (Beauty / Beauty Too (12" single), 1996)**
-Shimmering pads and disciplined groove create an expansive, late-90s progressive sheen. The track's "slow reveal" arrangement is pure progressive logic: small changes, big emotional result.
-
-**Fifty Fifty — Crazy Thing (POB's Remix) (Crazy Thing (12" single), 1996)**
-Remix culture at its most genre-defining: the POB rework turns the track into a progressive arc built on layering and controlled breakdown timing. It's a case study in how the era refined *structure* as the main creative signature.
-
 **Olive — You're Not Alone (Extra Virgin (album) / You're Not Alone (single), 1996)**
 A vocal crossover that still leans on progressive pacing: long tension curves and spacious production that DJs can actually work with. The vocal is central, but the track's identity is in its gradual build mechanics.
-
-**Full Proof — Sunny (Sunny (12" single), 1998)**
-A classic late-90s progressive DJ tool: filtered movement, tight low-end, and a hook that grows through repetition. Its strength is functional—perfect for sustained blending and steady escalation.
 
 **Sasha — Xpander (Xpander EP (12" EP), 1999)**
 One of the definitive progressive house anthems: slow-burning arpeggiation that blooms into a massive, controlled peak. It set a benchmark for melodic progression and long-form payoff in late-90s club culture.
@@ -77,9 +65,6 @@ A sleek riff-driven classic with a breakdown engineered for maximum tension hold
 
 **Medway — The Baseline Track (The Baseline Track (12" single), 2000)**
 A masterclass in progressive minimalism: one unforgettable bass idea, patiently expanded. It's the genre's core principle—evolution over novelty—executed with peak-time effectiveness.
-
-**John Creamer & Stephane K — I Wish You Were Here (I Wish You Were Here (12" single), 2000)**
-Lush but disciplined: emotional chordwork carried by a steady progressive pulse. It exemplifies the era's ability to be melodic without becoming trance-first, keeping arrangement and groove as the primary identity.
 
 **Dirty Vegas — Days Go By (Dirty Vegas (album), 2001)**
 A rare global crossover that still respects progressive structure—steady drive, gradual lift, and mix-friendly phrasing. It helped bring progressive sensibilities into wider pop/rock-adjacent dance culture without flattening the form.

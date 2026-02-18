@@ -48,11 +48,16 @@
 
 - [New Wave](punk/post%20punk/new%20wave.md)
 
+## Alternative Rock
+
+- [Post Grunge](alternative%20rock/post%20grunge.md)
+
 ## Rock
 
 ### Progressive Rock
 
 - [Neo-Prog](rock/progressive%20rock/neo-prog.md)
+- [Symphonic Prog](rock/progressive%20rock/symphonic%20prog.md)
 
 ## Industrial
 
@@ -81,6 +86,8 @@
 ### Black Metal
 
 - [Atmospheric Black Metal](metal/black%20metal/atmospheric_black_metal.md)
+- [Post Black Metal](metal/black%20metal/post%20black%20metal.md)
+- [Symphonic Black Metal](metal/black%20metal/symphonic%20black%20metal.md)
 
 ### Alternative Metal
 
@@ -90,3 +97,4 @@
 
 - [Deathcore](metal/core%20styles/deathcore.md)
 - [Djent](metal/core%20styles/djent.md)
+- [Metalcore](metal/core%20styles/metalcore.md)

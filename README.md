@@ -73,6 +73,11 @@
 
 ## Metal
 
+### Classic & Heavy Metal
+
+- [Groove Metal](metal/classic%20%26%20heavy%20metal/groove%20metal.md)
+- [Thrash Metal](metal/classic%20%26%20heavy%20metal/thrash%20metal.md)
+
 ### Black Metal
 
 - [Atmospheric Black Metal](metal/black%20metal/atmospheric_black_metal.md)

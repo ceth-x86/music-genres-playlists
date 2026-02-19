@@ -88,9 +88,6 @@ An ELP-adjacent symphonic statement built on keyboard orchestration, thematic de
 **Novalis — Sommerabend (Sommerabend, 1976)**
 A romantic, symphonic prog mini-epic where lyrical guitar and keys unfold in long melodic paragraphs. Novalis exemplify the continental European tendency toward pastoral mood and classical harmonic colour.
 
-**Trace — The Death of Ace (Trace, 1974)**
-A keyboard-trio approach that nevertheless sounds symphonic through organ registration, thematic contrast, and quasi-classical phrasing. It's a defining Benelux example of how 'symphonic' can be achieved with minimal personnel but maximal arrangement.
-
 **Earth & Fire — Song of the Marching Children (Song of the Marching Children, 1971)**
 A long, episodic track that stages a full symphonic narrative in rock instrumentation, complete with orchestral keyboard swells and dramatic scene changes. It's one of the Netherlands' clearest early contributions to the symphonic prog template.
 
@@ -99,9 +96,6 @@ Swedish symphonic prog at its most lyrical: wide-screen keyboards, folk-coloured
 
 **Harmonium — Histoires Sans Paroles (Si on avait besoin d'une cinquième saison, 1975)**
 A fully instrumental suite-like piece where melodies evolve and recur with classical patience, creating a 'symphonic' arc without bombast. Harmonium's refined writing shows a uniquely Québecois, chamber-like take on symphonic prog.
-
-**Los Canarios — Primavera (Ciclos, 1974)**
-A rock re-composition of Vivaldi's seasonal material that embraces symphonic development rather than mere quotation. It demonstrates how Iberian prog folded explicit classical sources into the genre's long-form vocabulary.
 
 ## Italian Symphonic Prog / RPI Golden Age (1971–1977)
 

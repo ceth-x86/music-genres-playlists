@@ -27,8 +27,10 @@
 
 ### Techno
 
+- [Dub Techno](electronic/techno/dub%20techno.md)
 - [Hypnotic Techno](electronic/techno/hypnotic%20techno.md)
 - [Melodic Techno](electronic/techno/melodic%20techno.md)
+- [Minimal Techno](electronic/techno/minimal%20techno.md)
 - [Progressive Techno](electronic/techno/progressive%20techno.md)
 - [Rave Techno](electronic/techno/rave%20techno.md)
 

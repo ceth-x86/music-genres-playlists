@@ -5,9 +5,6 @@
 **The Moody Blues — Nights in White Satin (Days of Future Passed, 1967)**
 A landmark fusion of rock songwriting with orchestral framing that helped legitimize the idea of a rock LP as a quasi‑symphonic work. Its sustained melodic arc and chamber‑pop grandeur prefigure the long-form, classically minded aesthetics later codified in symphonic prog.
 
-**Procol Harum — In Held 'Twas in I (Shine On Brightly, 1968)**
-A multipart suite that moves through contrasting sections like a miniature symphonic poem, from baroque keyboard colour to dramatic rock climaxes. It's one of the clearest late‑60s prototypes for prog's suite-based storytelling.
-
 **The Nice — Rondo (The Thoughts of Emerlist Davjack, 1968)**
 Keith Emerson's transformation of a classical theme into a driving rock showpiece is early symphonic‑prog DNA in plain view. The track's dynamic staging and virtuoso keyboard orchestration anticipate the genre's later grandiosity.
 
@@ -69,9 +66,6 @@ Mellotron-soaked, narrative prog where arrangement and atmosphere do the symphon
 
 **Refugee — Grand Canyon (Refugee, 1974)**
 A heavyweight symphonic prog suite driven by Patrick Moraz's kaleidoscopic keyboard 'orchestration' and rapid sectional changes. It distills early-70s virtuosity into a single, tightly organized long-form track.
-
-**Fruupp — The Prince of Heaven's Eyes (The Prince of Heaven's Eyes, 1974)**
-A multi-part title piece that marries Celtic-tinged melody to symphonic development and keyboard colour. Fruupp's dramatic contrasts and lyrical motifs are textbook symphonic prog craftsmanship.
 
 **Druid — Towards the Sun (Towards the Sun, 1975)**
 A pastoral-to-grand arc built from evolving themes, choral keyboards, and carefully staged crescendos. It's emblematic of mid-70s 'second wave' UK symphonic prog—deeply classicist, but with its own voice.

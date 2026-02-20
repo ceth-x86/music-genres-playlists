@@ -114,4 +114,8 @@
 
 ### Other Styles
 
+- [Avantgarde Metal](metal/other%20styles/avantgarde%20metal.md)
+- [Folk Metal](metal/other%20styles/folk%20metal.md)
+- [Gothic Metal](metal/other%20styles/gothic%20metal.md)
+- [Post Metal](metal/other%20styles/post%20metal.md)
 - [Symphonic Metal](metal/other%20styles/symphonic%20metal.md)

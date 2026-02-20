@@ -55,38 +55,17 @@ A devotional, slowly unfolding track that uses texture and counterpoint like orc
 **Chris Squire — Hold Out Your Hand (Fish Out of Water, 1975)**
 Squire translates Yes's symphonic vocabulary into a solo context, with expansive harmonies and an almost orchestral sense of arrangement. The track highlights how the genre's 'big' writing could survive outside the mother band.
 
-**Greenslade — Feathered Friends (Greenslade, 1973)**
-A keyboard-forward symphonic rocker with crisp thematic contrasts and classical-leaning harmonic turns. It captures the early-70s British secondary scene where symphonic prog flourished beyond the 'big six' names.
-
-**Curved Air — Vivaldi (Air Cut, 1973)**
-A rock reimagining of baroque material that's less novelty than manifesto: classical form and rock power as a single fabric. The violin-led arrangement foregrounds the genre's chamber-classical lineage.
-
-**Strawbs — Hero and Heroine (Hero and Heroine, 1974)**
-Mellotron-soaked, narrative prog where arrangement and atmosphere do the symphonic work—swells, counter-lines, and dramatic pacing. It's a key example of symphonic prog intersecting with British folk-tinged storytelling without tipping into folk rock.
-
-**Refugee — Grand Canyon (Refugee, 1974)**
-A heavyweight symphonic prog suite driven by Patrick Moraz's kaleidoscopic keyboard 'orchestration' and rapid sectional changes. It distills early-70s virtuosity into a single, tightly organized long-form track.
-
 **Druid — Towards the Sun (Towards the Sun, 1975)**
 A pastoral-to-grand arc built from evolving themes, choral keyboards, and carefully staged crescendos. It's emblematic of mid-70s 'second wave' UK symphonic prog—deeply classicist, but with its own voice.
 
 **The Enid — In the Region of the Summer Stars (In the Region of the Summer Stars, 1976)**
 The Enid lean hardest into true symphonic composition, foregrounding orchestral harmony and formal development over rock riffing. This track is a cornerstone for the genre's most explicitly 'classical' branch.
 
-**Fantasy — Beyond the Beyond (Paint a Picture, 1973)**
-A long-form piece that uses Mellotron and organ as orchestral sections, moving through distinct episodes and reprises. It's a cult-classic illustration of symphonic prog's album-era ambition outside the mainstream.
-
 **Kansas — Song for America (Song for America, 1975)**
 Kansas fuse symphonic arrangement (violin/keys) with American rock drive, producing a suite-like track that still breathes like a song. It's among the most convincing US translations of the British symphonic prog model.
 
-**Starcastle — Lady of the Lake (Starcastle, 1976)**
-A bright, melodic example of US symphonic prog that foregrounds layered vocals and shimmering keyboard 'strings'. The track shows the genre's capacity for uplift and fantasy without losing structural sophistication.
-
 **Triumvirat — Spartacus (Spartacus, 1975)**
 An ELP-adjacent symphonic statement built on keyboard orchestration, thematic development, and dramatic pacing. Triumvirat prove the style's portability beyond Britain, translating it into a tightly executed German variant.
-
-**Novalis — Sommerabend (Sommerabend, 1976)**
-A romantic, symphonic prog mini-epic where lyrical guitar and keys unfold in long melodic paragraphs. Novalis exemplify the continental European tendency toward pastoral mood and classical harmonic colour.
 
 **Earth & Fire — Song of the Marching Children (Song of the Marching Children, 1971)**
 A long, episodic track that stages a full symphonic narrative in rock instrumentation, complete with orchestral keyboard swells and dramatic scene changes. It's one of the Netherlands' clearest early contributions to the symphonic prog template.
@@ -108,15 +87,6 @@ A dramatic, suite-like composition with operatic vocal delivery and keyboard wri
 **Le Orme — Sospesi nell'incredibile (Felona e Sorona, 1973)**
 Le Orme's symphonic sensibility shines in the track's floating harmonies, Mellotron sheen, and carefully staged climaxes. It's emblematic of RPI's blend of songful melody with progressive, multi-section form.
 
-**New Trolls — Allegro (Concerto Grosso per i New Trolls, 1971)**
-A key 'rock meets orchestra' statement that treats baroque gestures and rock drive as equal partners. It crystallizes the symphonic prog idea in explicitly concerto-like terms.
-
-**Museo Rosenbach — Zarathustra (Zarathustra, 1973)**
-A monumental suite that leans on recurring motifs and large-scale dramatic pacing—symphonic form translated into rock instrumentation. Its density and thematic ambition make it a cornerstone of the Italian symphonic canon.
-
-**Maxophone — C'è un Paese al Mondo (Maxophone, 1975)**
-A quintessential mid-70s Italian symphonic track: intricate arrangement, lyrical melodies, and sudden dynamic turns that feel like movements within a larger work. Maxophone's cult status stems from this level of compositional detail.
-
 **Locanda delle Fate — Forse le Lucciole Non Si Amano Più (Forse le Lucciole Non Si Amano Più, 1977)**
 A late-era RPI masterpiece that doubles down on romantic harmony, orchestral keyboards, and suite-like structure. Its bittersweet melodicism captures the 'symphonic' heart of Italian prog at the end of the classic period.
 
@@ -129,14 +99,8 @@ Celeste specialize in soft-focus symphonic prog: gentle Mellotron, flute, and se
 **Alphataurus — Peccato d'Orgoglio (Alphataurus, 1973)**
 A dramatic, keyboard-and-guitar tapestry where themes unfold with classical poise and sudden intensity. Alphataurus' lone LP is revered largely on the strength of tracks like this—pure Italian symphonic heft.
 
-**Semiramis — Luna Park (Dedicato a Frazz, 1973)**
-A concise dose of RPI theatricality, pairing ornate keyboards with shifting sections and expressive vocals. It showcases how Italian symphonic prog could be both baroque and punchy without losing sophistication.
-
 **Latte e Miele — Il Calvario (Passio Secundum Mattheum, 1972)**
 Part of a larger sacred-concept suite, it draws directly on liturgical drama and symphonic-scale pacing. Latte e Miele demonstrate RPI's uniquely Italian blend of devotional narrative and progressive structure.
-
-**Metamorfosi — Inferno (Inferno, 1973)**
-A suite-based, organ-dominated symphonic work that turns Dante's imagery into musical scenes. Its sustained thematic development and cathedral-like textures make it one of the most overtly 'symphonic' items in RPI.
 
 **Il Rovescio della Medaglia — La Grande Fuga (Contaminazione, 1973)**
 A Bach-inflected prog statement where counterpoint and rock dynamics interlock like a hybrid chamber piece. It's a prime example of symphonic prog's 'contamination' strategy: classical form re-energized by electric instrumentation.

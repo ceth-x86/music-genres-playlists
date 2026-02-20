@@ -2,6 +2,7 @@
 
 ## Dark Folk
 
+- [Apocalyptic Folk](dark%20folk/apocalyptic%20folk.md)
 - [Neoclassic Folk](dark%20folk/neoclassic%20folk.md)
 - [Psychedelic Dark Folk](dark%20folk/psychedelic%20dark%20folk.md)
 
@@ -24,10 +25,14 @@
 
 - [Ambient IDM](electronic/idm/ambient%20idm.md)
 - [Classic IDM](electronic/idm/classic%20idm.md)
+- [Electro IDM](electronic/idm/electro%20idm.md)
 
 ### Techno
 
+- [Berlin Techno](electronic/techno/berlin%20techno.md)
+- [Detroit Techno](electronic/techno/detroit%20techno.md)
 - [Dub Techno](electronic/techno/dub%20techno.md)
+- [Hard Techno](electronic/techno/hard%20techno.md)
 - [Hypnotic Techno](electronic/techno/hypnotic%20techno.md)
 - [Melodic Techno](electronic/techno/melodic%20techno.md)
 - [Minimal Techno](electronic/techno/minimal%20techno.md)
@@ -56,6 +61,8 @@
 - [Post Grunge](alternative%20rock/post%20grunge.md)
 
 ## Rock
+
+- [Folk Rock](rock/folk%20rock.md)
 
 ### Progressive Rock
 
@@ -101,3 +108,7 @@
 - [Deathcore](metal/core%20styles/deathcore.md)
 - [Djent](metal/core%20styles/djent.md)
 - [Metalcore](metal/core%20styles/metalcore.md)
+
+### Other Styles
+
+- [Symphonic Metal](metal/other%20styles/symphonic%20metal.md)

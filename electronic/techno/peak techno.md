@@ -5,17 +5,11 @@
 **Oxia — Domino (Speicher 34, 2006)**
 An early blueprint for peak-time techno, built around syncopated percussion and pressure-building hats. It helped define how functional techno could still feel like an anthem at the room's peak. It's a frequently cited reference point for peak-time/driving DJ sets.
 
-**Audion — Mouth To Mouth (Mouth To Mouth, 2006)**
-An early blueprint for peak-time techno, built around a hook built from stabs, vocal chops, or metallic synths. It helped define how functional techno could still feel like an anthem at the room's peak.
-
 **Dataworx — Control (Control, 2008)**
 An early blueprint for peak-time techno, built around a memorable riff that cuts through dense mixes. It helped define how functional techno could still feel like an anthem at the room's peak.
 
 **Oliver Huntemann & Dubfire — Dios (Dios, 2008)**
 An early blueprint for peak-time techno, built around tight, punchy drum programming and clean low-end. It helped define how functional techno could still feel like an anthem at the room's peak.
-
-**Mark Mendes — Beneath You (Beneath You, 2007)**
-An early blueprint for peak-time techno, built around tension-and-release arrangement designed for peak-hour impact. It helped define how functional techno could still feel like an anthem at the room's peak.
 
 **Gregor Tresher — A Thousand Nights (A Thousand Nights Part 1, 2007)**
 An early blueprint for peak-time techno, built around syncopated percussion and pressure-building hats. It helped define how functional techno could still feel like an anthem at the room's peak.
@@ -34,17 +28,8 @@ An early blueprint for peak-time techno, built around modern, loud mixdown tailo
 
 ## Codification era (2012–2015)
 
-**Green Velvet & Harvard Bass — Lazer Beams (Lazer Beams, 2012)**
-A key 2010s step in codifying peak-time/driving techno, centered on a rolling kick-bass engine and syncopated percussion and pressure-building hats. Its straightforward, DJ-friendly structure makes it a reliable peak-hour weapon. It's also a widely referenced reference-point track for DJs and producers in the style.
-
 **Dense & Pika — TEX (TEX, 2015)**
 A key 2010s step in codifying peak-time/driving techno, centered on a memorable riff that cuts through dense mixes and tight, punchy drum programming and clean low-end. Its straightforward, DJ-friendly structure makes it a reliable peak-hour weapon.
-
-**DJ Boris — Can You Hear Me (Enrico Sangiuliano Remix) (Can You Hear Me, 2015)**
-A key 2010s step in codifying peak-time/driving techno, centered on a hook built from stabs, vocal chops, or metallic synths and modern, loud mixdown tailored for big systems. Its straightforward, DJ-friendly structure makes it a reliable peak-hour weapon.
-
-**Santos — Angeles (Angeles, 2014)**
-A key 2010s step in codifying peak-time/driving techno, centered on tension-and-release arrangement designed for peak-hour impact and a dark, driving groove with disciplined minimalism. Its straightforward, DJ-friendly structure makes it a reliable peak-hour weapon.
 
 **Traumer — Hoodlum (Hoodlum, 2014)**
 A key 2010s step in codifying peak-time/driving techno, centered on syncopated percussion and pressure-building hats and a memorable riff that cuts through dense mixes. Its straightforward, DJ-friendly structure makes it a reliable peak-hour weapon.

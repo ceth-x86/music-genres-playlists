@@ -24,8 +24,11 @@
 ### IDM
 
 - [Ambient IDM](electronic/idm/ambient%20idm.md)
+- [Braindance](electronic/idm/braindance.md)
 - [Classic IDM](electronic/idm/classic%20idm.md)
 - [Electro IDM](electronic/idm/electro%20idm.md)
+- [Experimental IDM / Post IDM](electronic/idm/experimental%20idm%20post%20idm.md)
+- [Glitch / Microsound](electronic/idm/glitch%20microsound.md)
 
 ### Techno
 

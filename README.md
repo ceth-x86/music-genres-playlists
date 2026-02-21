@@ -91,6 +91,10 @@
 
 ## Metal
 
+### Doom & Sludge
+
+- [Doom Metal](metal/doom%20%26%20sludge/doom%20metal.md)
+
 ### Classic & Heavy Metal
 
 - [Groove Metal](metal/classic%20%26%20heavy%20metal/groove%20metal.md)

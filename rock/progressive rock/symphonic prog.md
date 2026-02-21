@@ -73,104 +73,10 @@ A long, episodic track that stages a full symphonic narrative in rock instrument
 **Kaipa — Skenet Bedrar (Inget Nytt Under Solen, 1976)**
 Swedish symphonic prog at its most lyrical: wide-screen keyboards, folk-coloured themes, and multi-section development. Kaipa helped seed a Scandinavian lineage that later revival bands would explicitly draw upon.
 
-**Harmonium — Histoires Sans Paroles (Si on avait besoin d'une cinquième saison, 1975)**
-A fully instrumental suite-like piece where melodies evolve and recur with classical patience, creating a 'symphonic' arc without bombast. Harmonium's refined writing shows a uniquely Québecois, chamber-like take on symphonic prog.
-
-## Italian Symphonic Prog / RPI Golden Age (1971–1977)
-
-**Premiata Forneria Marconi — Impressioni di Settembre (Storia di un Minuto, 1972)**
-Often cited as a defining RPI moment, it marries Italian melodic lyricism to symphonic keyboard colour and crisp rhythmic shifts. The track helped establish Italy as a second epicentre of symphonic prog outside the UK.
-
-**Banco del Mutuo Soccorso — R.I.P. (Banco del Mutuo Soccorso, 1972)**
-A dramatic, suite-like composition with operatic vocal delivery and keyboard writing that functions like orchestration. Banco's theatrical intensity became a signature of Italian symphonic prog's grandeur.
-
-**Le Orme — Sospesi nell'incredibile (Felona e Sorona, 1973)**
-Le Orme's symphonic sensibility shines in the track's floating harmonies, Mellotron sheen, and carefully staged climaxes. It's emblematic of RPI's blend of songful melody with progressive, multi-section form.
-
-**Locanda delle Fate — Forse le Lucciole Non Si Amano Più (Forse le Lucciole Non Si Amano Più, 1977)**
-A late-era RPI masterpiece that doubles down on romantic harmony, orchestral keyboards, and suite-like structure. Its bittersweet melodicism captures the 'symphonic' heart of Italian prog at the end of the classic period.
-
-**Quella Vecchia Locanda — Il Tempo della Gioia (Il Tempo della Gioia, 1974)**
-A pastoral, violin-tinged symphonic prog highlight built from flowing themes and carefully layered textures. The track exemplifies RPI's gift for turning classical colour into emotionally direct long-form songcraft.
-
-**Celeste — Principe di un Giorno (Principe di un Giorno, 1976)**
-Celeste specialize in soft-focus symphonic prog: gentle Mellotron, flute, and serene harmonic movement. This title track is a textbook example of the genre's 'pastoral symphony' mode—grand in form, intimate in tone.
-
-**Alphataurus — Peccato d'Orgoglio (Alphataurus, 1973)**
-A dramatic, keyboard-and-guitar tapestry where themes unfold with classical poise and sudden intensity. Alphataurus' lone LP is revered largely on the strength of tracks like this—pure Italian symphonic heft.
-
-**Latte e Miele — Il Calvario (Passio Secundum Mattheum, 1972)**
-Part of a larger sacred-concept suite, it draws directly on liturgical drama and symphonic-scale pacing. Latte e Miele demonstrate RPI's uniquely Italian blend of devotional narrative and progressive structure.
-
-**Il Rovescio della Medaglia — La Grande Fuga (Contaminazione, 1973)**
-A Bach-inflected prog statement where counterpoint and rock dynamics interlock like a hybrid chamber piece. It's a prime example of symphonic prog's 'contamination' strategy: classical form re-energized by electric instrumentation.
-
-**Biglietto per l'Inferno — Confessione (Biglietto per l'Inferno, 1974)**
-A hard-edged but unmistakably symphonic track, with extended sections, emphatic organ writing, and dramatic vocal narrative. It captures the tougher side of RPI while remaining fundamentally suite-minded and orchestral in ambition.
-
-**Raccomandata con Ricevuta di Ritorno — Il mondo cade su di me (Per… un mondo di cristallo, 1972)**
-A swirling, multi-layered arrangement that moves beyond straightforward rock into symphonic pacing and colour. The band's cult classic status comes from this kind of bold, cinematic structuring.
-
-**Apoteosi — Apoteosi (Apoteosi, 1975)**
-A deep-cut gem where melodic themes are developed with classical patience and keyboard orchestration. It's emblematic of the many 'one-album wonders' that nonetheless contributed essential symphonic language to 70s Italy.
-
-**De De Lind — Uomo è il nome che mi han dato (Io non so da dove vengo e non so dove mai andrò. Uomo è il nome che mi han dato, 1973)**
-A dramatic centerpiece from one of Italian prog's most debated classics, built on evolving sections and richly voiced keys. Its mixture of lyrical passages and heavier climaxes shows symphonic prog's capacity for narrative contrast.
-
-**The Trip — Caronte (Caronte, 1971)**
-Mythic concept framing and keyboard-led development give this track a proto-symphonic Italian profile. It's a key step in The Trip's shift from psych roots toward fully articulated, suite-based prog.
-
-**Reale Accademia Di Musica — Il Mattino (Reale Accademia Di Musica, 1972)**
-A Mellotron-and-organ drenched epic that unfolds in clear episodes, like a rock tone poem. The band exemplify the Italian studio-era craft where arrangement itself carries symphonic drama.
-
-**Alusa Fallax — Intorno Alla Mia Cattiva Educazione (Intorno alla mia cattiva educazione, 1974)**
-A richly arranged title track that mixes organ, harpsichord-like keys, and shifting sections into a coherent symphonic arc. It's a late-classic example of RPI's blend of baroque colour and progressive momentum.
-
-**Delirium — Jesahel (Dolce Acqua, 1971)**
-An Italian prog standard whose melodic directness is framed by symphonic keyboard textures and carefully staged dynamics. It shows how RPI could produce memorable 'songs' while still thinking in orchestral layers.
-
-## Continental European Symphonic Prog (1970–1978)
-
-**Ange — Le Cimetière des Arlequins (Le Cimetière des Arlequins, 1973)**
-A defining French symphonic prog piece: theatrical, melodically rich, and structured in long dramatic paragraphs. Ange translate the genre's symphonic sweep into a distinctly Francophone, story-driven sensibility.
-
-**Mona Lisa — Le Petit Violon de Monsieur Grégoire (Le Petit Violon de Mr. Grégoire, 1976)**
-A darkly romantic title track that balances lyrical motifs with larger-scale symphonic pacing. Mona Lisa are key to the French scene's baroque, theatrical branch of symphonic prog.
-
-**Shylock — Île de Fièvre (Île de Fièvre, 1978)**
-French symphonic prog with precision: long-form development, expressive keyboard voicing, and carefully controlled crescendos. It's a cult favourite for its balance of elegance and intensity within a suite format.
-
-**Clearlight — Symphony (Clearlight Symphony, 1975)**
-One of the most overt attempts to write an actual rock symphony—formal development and orchestral harmony foregrounded, rock rhythm section in service of the architecture. A touchstone for the genre's 'classical composition first' ideal.
-
-**Finch — Register Magnum (Galleons of Passion, 1977)**
-A virtuoso, multi-section epic where themes are stated, transformed, and reprised with near-symphonic logic. Finch represent the Netherlands' more explicitly 'symphonic suite' approach in the late 70s.
-
-**Triana — Abre la Puerta (El Patio, 1975)**
-A landmark Iberian progressive track that blends Andalusian melodic identity with symphonic prog's extended form and keyboard colour. Its slow-building structure shows how symphonic prog could absorb local traditions without losing its core syntax.
-
-**José Cid — 10.000 Anos Depois Entre Vénus E Marte (10.000 Anos Depois Entre Vénus E Marte, 1978)**
-A Portuguese symphonic prog epic that embraces narrative scale, recurring themes, and big keyboard orchestration. It's a prime example of the genre's late-70s afterlife outside the UK mainstream.
-
-**Aphrodite's Child — The Four Horsemen (666, 1972)**
-A dramatic, apocalyptic set-piece where progressive structure and orchestral-minded arrangement amplify the song into a mini‑cantata. It stands as a bridge between psychedelic prog and the fully symphonic prog imagination.
-
-**Czesław Niemen — Bema pamięci żałobny rapsod (Niemen Enigmatic, 1970)**
-A towering Eastern European prog suite that openly courts symphonic scale—choir-like textures, long melodic spans, and movement-like transitions. It shows how symphonic ambition emerged internationally, not only in Anglo-Italian scenes.
-
-**Neuschwanstein — Loafer Jack (Battlement, 1979)**
-A late classic-era symphonic prog highlight built around big melodic hooks, layered keys, and a multi-section narrative arc. Neuschwanstein helped keep the romantic Genesis/Yes lineage alive on the continent as the 70s ended.
-
 ## Americas & Commonwealth Symphonic Prog (1975–1978)
-
-**Sebastian Hardie — Four Moments (Four Moments, 1975)**
-Australia's definitive symphonic prog statement: a multi-part suite with recurring themes, big keyboard swells, and romantic melodic writing. It shows how the genre's European language could be re‑rooted in a distinct Antipodean scene.
 
 **FM — Phasors on Stun (Black Noise, 1977)**
 Canadian prog that leans symphonic through layered synth 'orchestration' and suite-like development rather than hard-rock riffing. It's a key late-70s example of symphonic prog adapting to new electronic timbres while keeping long-form logic.
-
-**Fireballet — Night on Bald Mountain (Night on Bald Mountain, 1975)**
-A classical-source transformation (Mussorgsky) that fits symphonic prog's taste for orchestral drama and thematic development. Fireballet's arrangement makes the 'rock symphony' idea vivid in a North American context.
 
 **Cathedral — Stained Glass Stories (Stained Glass Stories, 1978)**
 A long, atmospheric epic that builds like a symphonic movement—theme statements, expansions, and a climactic return. It's one of the clearest US examples of the genre's romantic, Mellotron-soaked tradition.
@@ -178,16 +84,7 @@ A long, atmospheric epic that builds like a symphonic movement—theme statement
 **Crucis — Los Delirios del Mariscal (Crucis, 1976)**
 Argentine symphonic prog at full scale: shifting sections, lyrical keyboard themes, and dramatic pacing that mirrors European suite-writing. The track helped establish a serious South American symphonic prog lineage.
 
-**La Máquina de Hacer Pájaros — Hipercandombe (La Máquina de Hacer Pájaros, 1976)**
-Charly García's band blend symphonic structure with Latin rhythmic intelligence, producing a track that feels both orchestral and grounded. It's a vital example of how symphonic prog could be localized without becoming mere imitation.
-
 ## Late‑70s to Early‑80s Symphonic Continuations (1977–1984)
-
-**England — Three Piece Suite (Garden Shed, 1977)**
-A late-classic symphonic prog epic that channels the Genesis/Yes vocabulary into an exceptionally tight multi-section structure. Its lush keyboard layers and thematic returns make it one of the era's most celebrated 'hidden' symphonic gems.
-
-**Anthony Phillips — Which Way the Wind Blows (The Geese & the Ghost, 1977)**
-A symphonic miniature where layered guitars and keyboards function like an orchestra, with themes unfolding through clearly articulated 'movements'. Phillips helped carry early Genesis-era symphonic sensibility into a more chamber-like, pastoral solo idiom.
 
 **UK — In the Dead of Night (UK, 1978)**
 A virtuosic, tightly arranged prog statement that keeps symphonic pacing—sections that recur and transform—inside a concise, high-energy framework. It shows how late-70s prog could modernize its sound without abandoning orchestral-scale thinking.
@@ -200,9 +97,6 @@ Banks writes symphonic prog like a composer: long melodic sentences, carefully v
 
 **Kayak — Phantom of the Night (Phantom of the Night, 1978)**
 An example of symphonic prog edging toward song-oriented accessibility while retaining orchestral keyboard colour and dramatic harmonic pacing. Kayak's late-70s work demonstrates how the symphonic style survived by refining its hooks without losing its scale.
-
-**Bacamarte — Último Entardecer (Depois do Fim, 1983)**
-A lush, romantic symphonic prog epic whose melodic development and orchestration clearly echo the 70s classic model. It's one of the strongest proofs that symphonic prog persisted into the 80s outside the Anglo‑European mainstream.
 
 ## Revival & Contemporary Symphonic Prog (1990–2025)
 

@@ -81,8 +81,14 @@
 
 - [Avantgarde Rock](rock/experimental%20rock/avantgarde%20rock.md)
 
+### Mainstream Rock
+
+- [Pop Rock](rock/mainstream%20rock/pop%20rock.md)
+- [Soft Rock](rock/mainstream%20rock/soft%20rock.md)
+
 ### Progressive Rock
 
+- [Avant-Prog](rock/progressive%20rock/avant-prog.md)
 - [Neo-Prog](rock/progressive%20rock/neo-prog.md)
 - [Symphonic Prog](rock/progressive%20rock/symphonic%20prog.md)
 

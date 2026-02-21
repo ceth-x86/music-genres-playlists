@@ -49,14 +49,24 @@
 
 ## Indie Rock
 
+- [Indie Pop](indie%20rock/indie%20pop.md)
+- [Indie Rock](indie%20rock/indie%20rock.md)
+- [Post Rock](indie%20rock/post%20rock.md)
+
 ### Dreamy Indie
 
 - [Shoegaze](indie%20rock/dreamy%20indie/shoegaze.md)
 
 ## Punk
 
+### Hardcore Punk
+
+- [Emo](punk/hardcore%20punk/emo.md)
+- [Mathcore](punk/hardcore%20punk/mathcore.md)
+
 ### Post Punk
 
+- [Gothic Rock](punk/post%20punk/gothic%20rock.md)
 - [New Wave](punk/post%20punk/new%20wave.md)
 
 ## Alternative Rock
@@ -66,6 +76,10 @@
 ## Rock
 
 - [Folk Rock](rock/folk%20rock.md)
+
+### Experimental Rock
+
+- [Avantgarde Rock](rock/experimental%20rock/avantgarde%20rock.md)
 
 ### Progressive Rock
 

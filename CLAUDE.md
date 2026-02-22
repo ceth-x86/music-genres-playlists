@@ -30,7 +30,7 @@ When adding a new playlist to README.md, find its position in `classification.ya
 
 ### Creating new playlist files
 
-When asked to create a file for a genre, create an empty file. Place it according to `classification.yaml` hierarchy and add the link to README.md.
+When asked to create a file for a genre, create a file with a `# Genre Name` header. Place it according to `classification.yaml` hierarchy and add the link to README.md.
 
 ### Converting from table format
 

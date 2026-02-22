@@ -10,13 +10,16 @@
 
 ### Ambient
 
+- [Ambient Techno](electronic/ambient/ambient%20techno.md)
 - [Classic Ambient](electronic/ambient/classic%20ambient.md)
+- [Dark Ambient](electronic/ambient/dark%20ambient.md)
 - [Industrial Ambient](electronic/ambient/industrial%20ambient.md)
+- [Psybient](electronic/ambient/psybient.md)
 
 ### Electro
 
 - [Classic Electro](electronic/electro/classic%20electro.md)
-- [Dark Electro / Electro Techno](electronic/electro/dark%20electro%20electro%20techno.md)
+- [Dark Electro](electronic/electro/dark%20electro.md)
 
 ### Experimental Electronic
 

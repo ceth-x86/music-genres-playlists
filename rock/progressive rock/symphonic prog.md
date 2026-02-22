@@ -100,9 +100,6 @@ An example of symphonic prog edging toward song-oriented accessibility while ret
 
 ## Revival & Contemporary Symphonic Prog (1990–2025)
 
-**Änglagård — Jordrök (Hybris, 1992)**
-A cornerstone of the 90s symphonic prog revival: dense Mellotron colour, folk-tinged themes, and rigorous suite logic. Änglagård proved the classic 70s symphonic language could be revitalized with modern precision and intensity.
-
 **Spock's Beard — The Light (The Light, 1995)**
 A modern symphonic prog manifesto built as a single long-form journey with clear thematic signposts and symphonic crescendos. It helped re-establish 'classic-style' symphonic prog in the 90s without lapsing into mere pastiche.
 
@@ -123,9 +120,6 @@ A multi-movement modern epic that wears its 70s sympho-prog lineage openly—big
 
 **Neal Morse — The Door (One, 2004)**
 A long-form narrative track that treats rock songwriting as a sequence of symphonic scenes, complete with overture-like introductions and climactic returns. It exemplifies the 2000s wave of symphonic prog built around modern, studio-scale composition.
-
-**Glass Hammer — A Maker of Crowns (The Inconsolable Secret, 2005)**
-An epic opener that moves through contrasting moods like symphonic movements, anchoring its story in recurring melodic ideas. Glass Hammer's work here is frequently cited as a modern high-water mark for unabashedly symphonic prog.
 
 **La Maschera di Cera — La Maschera di Cera (La Maschera di Cera, 2002)**
 Italian 2000s revivalism done with classic symphonic craft: Mellotron-lush textures, dramatic vocal lines, and suite-like pacing. The track shows how RPI's symphonic tradition re-emerged with contemporary recording clarity.

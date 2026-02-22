@@ -3,8 +3,12 @@
 ## Dark Folk
 
 - [Apocalyptic Folk](dark%20folk/apocalyptic%20folk.md)
+- [Gothic Americana](dark%20folk/gothic%20americana.md)
 - [Neoclassic Folk](dark%20folk/neoclassic%20folk.md)
+- [Occult Folk](dark%20folk/occult%20folk.md)
+- [Pagan Folk](dark%20folk/pagan%20folk.md)
 - [Psychedelic Dark Folk](dark%20folk/psychedelic%20dark%20folk.md)
+- [Ritual Folk](dark%20folk/ritual%20folk.md)
 
 ## Electronic
 
@@ -13,6 +17,7 @@
 - [Ambient Techno](electronic/ambient/ambient%20techno.md)
 - [Classic Ambient](electronic/ambient/classic%20ambient.md)
 - [Dark Ambient](electronic/ambient/dark%20ambient.md)
+- [Drone / Minimal Ambient](electronic/ambient/drone%20minimal%20ambient.md)
 - [Industrial Ambient](electronic/ambient/industrial%20ambient.md)
 - [Psybient](electronic/ambient/psybient.md)
 
@@ -155,3 +160,15 @@
 - [Gothic Metal](metal/other%20styles/gothic%20metal.md)
 - [Post Metal](metal/other%20styles/post%20metal.md)
 - [Symphonic Metal](metal/other%20styles/symphonic%20metal.md)
+
+## Pop
+
+### Art Pop
+
+- [Avant-Pop](pop/art%20pop/avant-pop.md)
+
+### Mainstream Pop
+
+- [Dance Pop](pop/mainstream%20pop/dance%20pop.md)
+- [Electropop](pop/mainstream%20pop/electropop.md)
+- [Hyper Pop](pop/mainstream%20pop/hyper%20pop.md)

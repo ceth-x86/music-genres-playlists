@@ -13,6 +13,11 @@
 - [Classic Ambient](electronic/ambient/classic%20ambient.md)
 - [Industrial Ambient](electronic/ambient/industrial%20ambient.md)
 
+### Electro
+
+- [Classic Electro](electronic/electro/classic%20electro.md)
+- [Dark Electro / Electro Techno](electronic/electro/dark%20electro%20electro%20techno.md)
+
 ### Experimental Electronic
 
 - [Leftfield](electronic/experimental%20electronic/leftfield.md)
@@ -75,7 +80,10 @@
 
 ## Rock
 
+- [Art Rock](rock/art%20rock.md)
+- [Blues Rock](rock/blues%20rock.md)
 - [Folk Rock](rock/folk%20rock.md)
+- [Psychedelic Rock](rock/psychedelic%20rock.md)
 
 ### Experimental Rock
 
@@ -84,6 +92,7 @@
 ### Mainstream Rock
 
 - [Pop Rock](rock/mainstream%20rock/pop%20rock.md)
+- [Power Pop](rock/mainstream%20rock/power%20pop.md)
 - [Soft Rock](rock/mainstream%20rock/soft%20rock.md)
 
 ### Progressive Rock

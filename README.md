@@ -62,9 +62,13 @@
 
 ## Indie Rock
 
+- [Baroque Indie](indie%20rock/baroque%20indie.md)
+- [Indie Folk](indie%20rock/indie%20folk.md)
 - [Indie Pop](indie%20rock/indie%20pop.md)
 - [Indie Rock](indie%20rock/indie%20rock.md)
+- [Indietronica](indie%20rock/indietronica.md)
 - [Post Rock](indie%20rock/post%20rock.md)
+- [Slowcore](indie%20rock/slowcore.md)
 
 ### Dreamy Indie
 

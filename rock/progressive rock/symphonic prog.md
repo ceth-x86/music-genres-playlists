@@ -121,9 +121,6 @@ A multi-movement modern epic that wears its 70s sympho-prog lineage openly—big
 **Neal Morse — The Door (One, 2004)**
 A long-form narrative track that treats rock songwriting as a sequence of symphonic scenes, complete with overture-like introductions and climactic returns. It exemplifies the 2000s wave of symphonic prog built around modern, studio-scale composition.
 
-**La Maschera di Cera — La Maschera di Cera (La Maschera di Cera, 2002)**
-Italian 2000s revivalism done with classic symphonic craft: Mellotron-lush textures, dramatic vocal lines, and suite-like pacing. The track shows how RPI's symphonic tradition re-emerged with contemporary recording clarity.
-
 **Moon Safari — Other Half of the Sky (Blomljud, 2008)**
 A massive modern suite whose shifting sections and melodic reprises recall the genre's 70s 'side-long' tradition. Moon Safari add radiant vocal writing and bright orchestration, expanding symphonic prog's palette into a more luminous, modern register.
 
@@ -132,12 +129,6 @@ A narrative epic with orchestral-minded arrangement, recurring themes, and a slo
 
 **Wobbler — From Silence to Somewhere (From Silence to Somewhere, 2017)**
 A contemporary suite that nails classic symphonic prog sonics—Hammond, Mellotron, wide dynamic range—while maintaining genuinely fresh thematic flow. It's often cited as one of the strongest 2010s examples of 'pure' symphonic prog writing.
-
-**Il Bacio della Medusa — Il Bacio della Medusa (Il Bacio della Medusa, 2006)**
-A modern Italian symphonic-prog statement that foregrounds vintage keyboard colour and multi-section development. It's a vivid demonstration of how the classic RPI/symphonic vocabulary can be reanimated without dilution.
-
-**Il Castello di Atlante — Sono io il signore delle terre a nord (Sono io il signore delle terre a nord, 1992)**
-A revival-era Italian epic steeped in 70s symphonic rhetoric—grand themes, melodic development, and expressive keyboards. It helped define the 'Italian retro-symphonic' current that blossomed from the 90s onward.
 
 **Karmakanic — Roads to Everywhere (Roads to Everywhere, 2010)**
 A modern symphonic prog journey that builds patiently through sections, layering motifs into a large-scale arc. It shows the genre's continued appetite for long-form composition anchored by strong melodic narrative.

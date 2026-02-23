@@ -21,6 +21,15 @@
 - [Industrial Ambient](electronic/ambient/industrial%20ambient.md)
 - [Psybient](electronic/ambient/psybient.md)
 
+### Breaks
+
+- [Big Beat](electronic/breaks/big%20beat.md)
+- [Breakbeat](electronic/breaks/breakbeat.md)
+
+### Downtempo
+
+- [Trip-Hop](electronic/downtempo/trip-hop.md)
+
 ### Electro
 
 - [Classic Electro](electronic/electro/classic%20electro.md)
@@ -28,7 +37,9 @@
 
 ### Experimental Electronic
 
+- [Glitch Hop](electronic/experimental%20electronic/glitch%20hop.md)
 - [Leftfield](electronic/experimental%20electronic/leftfield.md)
+- [Noise Electronic](electronic/experimental%20electronic/noise%20electronic.md)
 
 ### House
 
@@ -58,6 +69,8 @@
 
 ### Trance
 
+- [Progressive Trance](electronic/trance/progressive%20trance.md)
+- [Psytrance](electronic/trance/psytrance.md)
 - [Uplifting Trance](electronic/trance/uplifting%20trance.md)
 
 ## Indie Rock
@@ -122,7 +135,13 @@
 ### Harsh & Aggressive
 
 - [Aggrotech](industrial/harsh%20%26%20aggressive/aggrotech.md)
+- [Power Electronic](industrial/harsh%20%26%20aggressive/power%20electronic.md)
 - [Power Noise](industrial/harsh%20%26%20aggressive/power%20noise.md)
+
+### Fusion Styles
+
+- [Electroclash](industrial/fusion%20styles/electroclash.md)
+- [Industrial Rock](industrial/fusion%20styles/industrial%20rock.md)
 
 ## Jazz
 
@@ -160,6 +179,11 @@
 - [Deathcore](metal/core%20styles/deathcore.md)
 - [Djent](metal/core%20styles/djent.md)
 - [Metalcore](metal/core%20styles/metalcore.md)
+
+### Death Metal
+
+- [Melodic Death Metal](metal/death%20metal/melodic%20death%20metal.md)
+- [Progressive Death Metal](metal/death%20metal/progressive%20death%20metal.md)
 
 ### Other Styles
 

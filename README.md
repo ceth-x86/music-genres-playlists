@@ -135,16 +135,20 @@
 ### Doom & Sludge
 
 - [Doom Metal](metal/doom%20%26%20sludge/doom%20metal.md)
+- [Sludge Metal](metal/doom%20%26%20sludge/sludge%20metal.md)
 
 ### Classic & Heavy Metal
 
 - [Groove Metal](metal/classic%20%26%20heavy%20metal/groove%20metal.md)
+- [Heavy Metal](metal/classic%20%26%20heavy%20metal/heavy%20metal.md)
 - [Thrash Metal](metal/classic%20%26%20heavy%20metal/thrash%20metal.md)
 
 ### Black Metal
 
 - [Atmospheric Black Metal](metal/black%20metal/atmospheric_black_metal.md)
+- [Melodic Black Metal](metal/black%20metal/melodic%20black%20metal.md)
 - [Post Black Metal](metal/black%20metal/post%20black%20metal.md)
+- [Raw Black Metal](metal/black%20metal/raw%20black%20metal.md)
 - [Symphonic Black Metal](metal/black%20metal/symphonic%20black%20metal.md)
 
 ### Alternative Metal
@@ -163,6 +167,7 @@
 - [Folk Metal](metal/other%20styles/folk%20metal.md)
 - [Gothic Metal](metal/other%20styles/gothic%20metal.md)
 - [Post Metal](metal/other%20styles/post%20metal.md)
+- [Power Metal](metal/other%20styles/power%20metal.md)
 - [Symphonic Metal](metal/other%20styles/symphonic%20metal.md)
 
 ## Pop

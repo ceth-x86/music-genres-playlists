@@ -89,6 +89,9 @@
 
 ## Punk
 
+- [Classic Punk](punk/classic%20punk.md)
+- [Pop Punk](punk/pop%20punk.md)
+
 ### Hardcore Punk
 
 - [Emo](punk/hardcore%20punk/emo.md)
@@ -101,18 +104,33 @@
 
 ## Alternative Rock
 
+- [Dance-Punk](alternative%20rock/dance-punk.md)
+- [Grunge](alternative%20rock/grunge.md)
 - [Post Grunge](alternative%20rock/post%20grunge.md)
+
+### Experimental Alt Rock
+
+- [Crossover Rock](alternative%20rock/experimental%20alt%20rock/crossover%20rock.md)
+- [Electronic Rock](alternative%20rock/experimental%20alt%20rock/electronic%20rock.md)
+- [Math Rock](alternative%20rock/experimental%20alt%20rock/math%20rock.md)
 
 ## Rock
 
+- [Arena Rock](rock/arena%20rock.md)
 - [Art Rock](rock/art%20rock.md)
 - [Blues Rock](rock/blues%20rock.md)
+- [Classic Rock](rock/classic%20rock.md)
 - [Folk Rock](rock/folk%20rock.md)
+- [Garage Rock](rock/garage%20rock.md)
+- [Glam Rock](rock/glam%20rock.md)
+- [Hard Rock](rock/hard%20rock.md)
 - [Psychedelic Rock](rock/psychedelic%20rock.md)
 
 ### Experimental Rock
 
+- [Art Noise Rock](rock/experimental%20rock/art%20noise%20rock.md)
 - [Avantgarde Rock](rock/experimental%20rock/avantgarde%20rock.md)
+- [Noise Rock](rock/experimental%20rock/noise%20rock.md)
 
 ### Mainstream Rock
 
@@ -123,7 +141,10 @@
 ### Progressive Rock
 
 - [Avant-Prog](rock/progressive%20rock/avant-prog.md)
+- [Krautrock](rock/progressive%20rock/krautrock.md)
+- [Modern Prog Rock](rock/progressive%20rock/modern%20prog%20rock.md)
 - [Neo-Prog](rock/progressive%20rock/neo-prog.md)
+- [Space Rock](rock/progressive%20rock/space%20rock.md)
 - [Symphonic Prog](rock/progressive%20rock/symphonic%20prog.md)
 
 ## Industrial

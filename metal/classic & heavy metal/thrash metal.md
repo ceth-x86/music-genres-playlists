@@ -20,23 +20,11 @@ A scene-defining anthem that helped set Bay Area thrash's communal vocabulary—
 **Overkill — Rotten to the Core (Feel the Fire, 1985)**
 A cornerstone of East Coast thrash: aggressive, compact, and street-level in attitude. It demonstrates how thrash could be both fast and hard, without drifting into groove metal's later emphasis on bounce.
 
-**Sodom — Outbreak of Evil (In the Sign of Evil, 1984)**
-Early Teutonic thrash's raw, punk-bitten ferocity in near-prototype form. Its abrasive simplicity helped define a European strain that prized harshness and momentum over polish.
-
 **Destruction — Curse the Gods (Infernal Overkill, 1985)**
 A defining early European statement: jagged riffs, biting aggression, and a relentless drive that shaped Teutonic thrash's identity. It's historically essential as a bridge from speed metal roots into fully-fledged thrash attack.
 
 **Onslaught — Power from Hell (Power from Hell, 1985)**
 A key UK marker showing thrash's rapid internationalization, combining punk abrasion with metal riff discipline. It stands as a cornerstone for the British scene's harsher, confrontational take on thrash.
-
-**Voivod — War and Pain (War and Pain, 1984)**
-Early Canadian thrash with an unmistakable angularity—less blues-metal lineage, more jagged shapes. It's important for showing how thrash could evolve distinct regional harmonic "dialects" while staying riff-driven and fast.
-
-**Hirax — Bombs of Death (Raging Violence, 1985)**
-A pure shot of high-velocity, no-frills thrash that highlights the genre's hardcore-adjacent urgency without becoming crossover-dominant. It's historically vital for representing the more feral, underground California side of early thrash.
-
-**Razor — Evil Invaders (Evil Invaders, 1985)**
-A canonical Canadian speed-thrash surge—lean, aggressive, and riff-packed. It's essential for mapping thrash's early North American spread beyond the most famous coastal hubs.
 
 ## Classic Era: US & Canada (1986–1991)
 

@@ -37,9 +37,6 @@ A key example of thrash's technical growth while keeping speed and attack centra
 **Forbidden — Through Eyes of Glass (Forbidden Evil, 1988)**
 One of the clearest Bay Area statements of late-80s technical thrash: intricate riff logic, soaring yet aggressive lead work, and disciplined pacing. It's a genre touchstone for "precision thrash" songwriting.
 
-**Vio-lence — Kill on Command (Eternal Nightmare, 1988)**
-A landmark in the harsher Bay Area strain—more bark, more bite, but still riff-driven rather than death-metal dominated. It's crucial for tracing thrash's increasing extremity while staying structurally thrash.
-
 **Heathen — Death by Hanging (Breaking the Silence, 1987)**
 A highly representative "thinking person's thrash" cut: tight, melodic-inflected riffing executed at full thrash intensity. It's historically important for the scene's more refined, guitar-literate wing.
 
@@ -61,20 +58,19 @@ A classic showing how thrash could be both technical and memorable, with strong 
 **Sacred Reich — Surf Nicaragua (Surf Nicaragua, 1988)**
 A cornerstone of socially-aware thrash that stays sharp and fast rather than leaning into heavy-metal gallop. It's key for showing how thrash's lyrical conscience could be paired with pit-ready riff structures.
 
-**Toxik — Heart Attack (World Circus, 1987)**
-A defining technical-thrash cut: intricate riff turns, bright lead work, and rhythmic exactness. It's historically important for the New York scene's more complex, almost "mathy" approach to thrash fundamentals.
-
 **Atrophy — Chemical Dependency (Socialized Hate, 1988)**
 A quintessential late-80s underground thrash anthem with a hard, clipped riff vocabulary and direct social commentary. It's a strong example of how second-tier scenes produced genre-pure classics outside the biggest hubs.
-
-**Evildead — Annihilation of Civilization (Annihilation of Civilization, 1989)**
-A prime specimen of late-80s thrash ferocity—violent riffing, urgent pacing, and a bleak atmosphere without crossing into death metal's structural habits. It's crucial for mapping the genre's darker, more punishing wing.
 
 **Holy Terror — Debt of Pain (Terror and Submission, 1987)**
 A cult classic where sharp, disciplined riffing and moral panic intensity meet in pure thrash form. Historically notable for embodying the era's "underground perfection" aesthetic—fast, hard, and uncompromising.
 
-**Realm — All Hallow's Eve (Endless War, 1988)**
-A standout technical-thrash track that emphasizes rhythmic precision and elaborate guitar choreography. It's important for showing how thrash's complexity could stay tethered to speed and aggression rather than prog-metal expansiveness.
+**Voivod — Tribal Convictions (Dimension Hatröss, 1988)**
+
+Это их «золотое сечение». Здесь трэш встречается с научной фантастикой и прогрессивными структурами. Диссонансные аккорды Пигги (гитариста) создали совершенно новый язык в металле. Песня идеально впишется рядом с Watchtower или Coroner как пример интеллектуального развития жанра.
+
+**Sodom — Agent Orange (Agent Orange, 1989)**
+
+Абсолютный эталон немецкого трэша. После сырого начала Sodom превратились в машину с идеальным продакшном, сохранив при этом маниакальную жестокость. Мощный рифф, военная тематика и безупречный ритм. Этот трек — вершина их классического периода.
 
 **Watchtower — Control and Resistance (Control and Resistance, 1989)**
 One of the genre's key technical statements: extreme precision, complex rhythms, and speed sustained as a core value. It's historically vital as a blueprint for "advanced" thrash that still prioritizes attack.

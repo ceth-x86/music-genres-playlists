@@ -37,9 +37,6 @@ A foundational UK/EU approach to prog metal: bright, kinetic riffing under layer
 **Conception — Silent Crying (Parallel Minds, 1993)**
 A sleek, riff‑driven example of prog metal's mid‑'90s Scandinavian voice—tight grooves, angular harmony, and vocal lines that ride over shifting accents. It helped normalize sophisticated songwriting inside a compact, songlike frame.
 
-**Vauxdvihl — To Dimension Logic (To Dimension Logic, 1994)**
-A cult technical gem where labyrinthine riff stacks and rapid meter pivots stay anchored by clear thematic returns. It's a prime document of the genre's "thinking guitarist" underground in the mid‑'90s.
-
 **Vanden Plas — I Don't Miss You (Colour Temple, 1994)**
 A signature of the German theatrical school: dramatic chord progressions, keyboard‑guitar call‑and‑response, and a narrative sense of build. It captures how prog metal absorbed stage‑rock melodrama without losing heaviness.
 
@@ -51,9 +48,6 @@ A melodic, introspective take on prog metal that uses extended forms and atmosph
 
 **Symphony X — The Divine Wings of Tragedy (The Divine Wings of Tragedy, 1997)**
 A defining epic that fuses neoclassical lead work, operatic drama, and tight rhythmic architecture into a single large-scale composition. Few tracks did more to codify "symphonic grandeur" inside progressive metal's core language.
-
-**Eternity X — Fly Away (The Edge, 1997)**
-An exemplary mid‑'90s suite‑minded track with long arcs, keyboard textures, and carefully staged climaxes. Its integration of melodic singing with complex, shifting backdrops is classic progressive metal craft.
 
 **Royal Hunt — River of Pain (Paradox, 1997)**
 A polished, high‑drama prog metal anthem: anthem‑grade melody riding over shifting harmonic turns and carefully arranged instrumental detail. It's a key exemplar of the genre's arena‑scale, keyboard‑forward side in the late '90s.

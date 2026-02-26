@@ -75,35 +75,11 @@ A cult classic where sharp, disciplined riffing and moral panic intensity meet i
 **Watchtower — Control and Resistance (Control and Resistance, 1989)**
 One of the genre's key technical statements: extreme precision, complex rhythms, and speed sustained as a core value. It's historically vital as a blueprint for "advanced" thrash that still prioritizes attack.
 
-**Forced Entry — Macrocosm, Microcosm (Uncertain Future, 1989)**
-A crucial cult entry in the technical thrash lineage, pairing sharp riff design with clean execution. It helps document how thrash spread into distinct local scenes that prized musicianship without softening the aggression.
-
-**Anacrusis — I Love the World (Manic Impressions, 1991)**
-A late-classic example of cerebral thrash: darker harmony and nuanced structure that still hinges on thrash riff logic. Historically important for showing thrash's mature, psychologically intense direction at the era's close.
-
-**Intruder — Cold Blooded Killer (A Higher Form of Killing, 1989)**
-A benchmark of tight, violent late-80s thrash built on disciplined riff cycles and relentless drive. It's influential as a model of "no-excess" songwriting where every section serves momentum.
-
-**Devastation — Deliver the Suffering (Idolatry, 1989)**
-A fierce, riff-dense cut representing the harsher American underground while retaining thrash's structural DNA. It's key for illustrating how regional scenes intensified the style without redefining it as something else.
-
 **Nasty Savage — Gladiator (Indulgence, 1987)**
 A distinctive thrash track that blends theatrical edge with razor riffing and speed, staying firmly on the thrash side of the heavy/thrash border. It's historically valuable for capturing the genre's eccentric underground personalities.
 
 **Annihilator — Alison Hell (Alice in Hell, 1989)**
 A definitive technical-thrash anthem with intricate riff craft and a dramatic narrative arc. It's crucial for the Canadian strand of virtuoso thrash and for expanding the genre's melodic/structural ambitions without leaving the style.
-
-**Sacrifice — Re-Animation (Forward to Termination, 1987)**
-A foundational Canadian thrash track: sharp, abrasive riffing and relentless pacing. It's a key document of how Canada developed its own fiercely committed thrash underground beyond the headline names.
-
-**Infernal Majesty — Night of the Living Dead (None Shall Defy, 1987)**
-A cult classic for its cold intensity and strict thrash riff discipline. It's historically important as an example of the darker, more punishing edge of late-80s thrash that still remains thrash at its core.
-
-**Defiance — Lockjaw (Product of Society, 1989)**
-A Bay Area deep-cut essential: disciplined riff chains, compact aggression, and a classic late-80s thrash feel. It's notable for documenting how richly populated and stylistically consistent the scene remained beyond the top tier.
-
-**Cyclone Temple — I Hate Therefore I Am (I Hate Therefore I Am, 1991)**
-A late-era thrash statement that preserves speed-and-riff priorities even as the genre's mainstream profile waned. Historically important for representing continuity: thrash staying thrash when many peers drifted into adjacent styles.
 
 **Wrathchild America — Climbing the Walls (Climbing the Walls, 1989)**
 A sharp example of late-80s American thrash that emphasizes riff attack and tight song form. It's important as a document of the era's broad middle class—bands keeping the style pure and energetic beyond the biggest markets.

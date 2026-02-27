@@ -92,29 +92,8 @@ A cornerstone of Teutonic thrash: harsh tone, relentless drive, and a vicious rh
 **Tankard — The Morning After (The Morning After, 1986)**
 A definitive example of thrash's "party-hard" side that still remains musically strict—speed, riff density, and punch. It's important for showing that thrash's cultural identity could vary widely while its musical core stayed consistent.
 
-**Holy Moses — Finished with the Dogs (Finished with the Dogs, 1987)**
-A landmark for Germany's harsher thrash line, pairing relentless riffing with a fierce vocal approach. Historically significant as an essential document of European thrash's uncompromising underground.
-
-**Exumer — Possessed by Fire (Possessed by Fire, 1986)**
-An archetypal mid-80s German thrash burner—fast, serrated riffs and direct song architecture. It's key for mapping how quickly Teutonic thrash developed its own recognizable sonic fingerprint.
-
-**Assassin — The Green Man (The Upcoming Terror, 1987)**
-A classic of tightly wound Teutonic riffcraft, balancing speed with sharp rhythmic punctuation. Historically important for representing the "second line" of German bands that made the scene so deep and influential.
-
 **Paradox — Pray to the Godz of Wrath (Heresy, 1989)**
 A refined, technical European thrash anthem with crisp riff logic and strong melodic contour. It's historically valuable for showing how late-80s thrash could sound epic and expansive without drifting into heavy metal's aesthetic center.
-
-**Protector — Golem (Golem, 1988)**
-A hard, aggressive track that captures the harsh, forward-driving Teutonic approach. It's important for documenting the gritty underground strain that kept thrash dangerous and uncompromising in Europe.
-
-**Vendetta — Brain Damage (Go and Live… Stay and Die, 1987)**
-A cult favorite for its rapid-fire riffing and strict, no-nonsense thrash structure. Historically important as a snapshot of late-80s German thrash depth beyond the "big names."
-
-**Deathrow — Riders of Doom (Riders of Doom, 1986)**
-A key technical edge-case in German thrash—fast, intricate, and rhythmically sharp. It's historically useful for tracing the early emergence of "advanced" thrash in Europe.
-
-**Angel Dust — Into the Dark Past (Into the Dark Past, 1986)**
-A classic example of the speed-thrash border where thrash remains dominant through attack, tempo discipline, and riff density. It's historically relevant for documenting how thrash vocabulary spread through broader European metal networks in the mid-80s.
 
 **Mekong Delta — Age of Agony (The Music of Erich Zann, 1988)**
 A landmark of cerebral, technical thrash with complex pacing that still centers on thrash riff mechanics. It's historically important for showing the genre's compatibility with high-concept composition without becoming prog metal.

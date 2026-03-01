@@ -107,15 +107,6 @@ A key late-80s European thrash cut that balances heaviness with strict thrash ve
 **Artillery — Terror Squad (Terror Squad, 1987)**
 A foundational Danish thrash statement with sharp riffcraft and disciplined song form. It's historically important for showing how European thrash could be both melodic and ferocious without defaulting to heavy metal tropes.
 
-**Invocator — Excursion Demise (Excursion Demise, 1991)**
-A late-classic European thrash highlight that keeps speed and aggression central amid rising early-90s stylistic drift elsewhere. Historically useful as evidence of thrash continuity at the end of the classic era.
-
-**Sacrosanct — Truth Is - What Is (Truth Is - What Is, 1990)**
-A technical, riff-forward track that shows thrash maturing into tighter, more elaborate structures while remaining fundamentally thrash. It's historically significant for the German scene's "precision school" at its peak.
-
-**Hydra Vein — Rather Death Than False of Faith (Rather Death Than False of Faith, 1988)**
-A UK cult cornerstone that pairs punkish urgency with disciplined thrash riffing. It's historically important for charting Britain's distinct thrash identity outside the most mainstream pathways.
-
 **Sabbat — A Cautionary Tale (History of a Time to Come, 1988)**
 A key UK thrash track notable for its tight, narrative-like songwriting while maintaining aggression and speed. It's historically central to understanding how British thrash blended wit, darkness, and precision.
 
@@ -130,15 +121,6 @@ A sharp late-80s UK thrash statement built on disciplined riffs and a direct, ur
 
 **Mezzrow — Then Came the Killing (Then Came the Killing, 1990)**
 A Swedish scene landmark showing classic thrash vocabulary translated into a colder Scandinavian sound. Historically important for evidencing how broadly the late-80s thrash template traveled and localized.
-
-**No Return — Psychological Torment (Psychological Torment, 1990)**
-A key French thrash document combining tight riff construction and relentless pacing. It's historically valuable for representing continental scenes that are often under-credited in Anglo-American narratives.
-
-**Wolf Spider — Dark Ages (Kingdom of Paranoia, 1990)**
-A major Polish thrash entry that demonstrates the style's Eastern European reach at the classic era's end. Historically important for mapping regional scenes that grew under different cultural and industry conditions.
-
-**Cyclone — Brutal Destruction (Brutal Destruction, 1986)**
-A definitive Benelux thrash statement: fast, hard, and riff-driven with a raw edge. It's historically valuable for showing the density of mid-80s European thrash beyond Germany and the UK.
 
 **Stone — Get Stoned (Stone, 1988)**
 A Finnish classic that pairs bright riffing with strict thrash momentum. Historically important as an early marker of Nordic thrash identity before later Scandinavian metal styles dominated international attention.
@@ -166,9 +148,6 @@ A cult Brazilian thrash document that leans into harshness while keeping thrash'
 **Next — Invasion Nuclear (Invasion nuclear, 1988)**
 A key Mexican scene marker, built on speed and tight riffing rather than heavy-metal swagger. Historically important for showing thrash's rapid dissemination through Latin underground networks in the late 80s.
 
-**Inquisidor — Dia Final (Inquisidor (Demo), 1989)**
-A raw but genre-pure document of Mexican thrash—fast tempos, direct riff cycles, and a strict thrash attack. Historically important as evidence of how demos and tape-trading carried thrash scenes outside major industry infrastructure.
-
 **Violator — Atomic Nightmare (Chemical Assault, 2006)**
 A modern Latin American thrash highlight that explicitly reconnects with the classic-era vocabulary: speed, sharp riff hooks, and disciplined structure. Historically important as part of the 2000s wave proving the genre's enduring global vitality.
 
@@ -185,12 +164,6 @@ A sharp example of German technical thrash built on strict riff logic and relent
 
 **Dew-Scented — In Flames (Immortelle, 1996)**
 A key 90s continuity track: modern tightness, classic thrash propulsion, and riff-forward composition when many peers moved into adjacent genres. Historically important as evidence of thrash persistence through the genre's lean years.
-
-**Guillotine — Executioner (Under the Guillotine, 1997)**
-A Swedish 90s thrash statement that keeps the classic template alive—speed, precision, and sharp riff cycles. Its importance lies in documenting thrash's underground survival and regional renewal before the 2000s boom.
-
-**Allegiance — Destitution (D.e.s.t.i.t.u.t.i.o.n., 1994)**
-A major Australian scene entry that demonstrates thrash's global reach beyond the usual U.S./Europe axis. Historically important for sustaining classic thrash priorities—velocity and riff architecture—into the mid-90s.
 
 **Mortal Sin — I Am Immortal (Face of Despair, 1989)**
 A cornerstone of Australian thrash: fast, aggressive, and built around riff discipline rather than heavy-metal grandiosity. Historically important for documenting a strong Southern Hemisphere scene contemporaneous with the classic era's late phase.
